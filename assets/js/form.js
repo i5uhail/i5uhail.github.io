@@ -1,4 +1,4 @@
-var $form = $('form#test-form'),
+var $form = $('form#signup-form'),
     url = 'https://script.google.com/macros/s/AKfycbzYNvhe8gjaRBLTiXmue6xd5qjWT6yFRzGhHY7IB3mb5lJhUgES/exec'
 
 $('#submit-form').on('click', function(e) {
