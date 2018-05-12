@@ -354,6 +354,9 @@
 			color: #1cb495 !important;
 			text-decoration: none;
 		}
+		a:typeform-share button:hover {
+			color: #d6f9f2 !important;
+		}
 
 	strong, b {
 		color: #fff;
@@ -372,7 +375,7 @@
 		color: #fff;
 		font-weight: 700;
 		line-height: 1em;
-		margin: 0 0 1em 0;
+		margin: 0 0 0 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -473,6 +476,10 @@
 		color: rgba(255, 255, 255, 0.5);
 		position: relative;
 		margin: 0 0 1em 0;
+	}
+
+	header a:hover {
+		color: #6fe9d1 !important;
 	}
 
 	header h2 + p {
@@ -1011,7 +1018,7 @@
 
 	#header h1 {
 		font-size: 3.25em;
-		margin: 0 0 0.4em 0;
+		margin: 0 0 0.1em 0;
 	}
 
 	#header p {
