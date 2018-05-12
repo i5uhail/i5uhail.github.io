@@ -472,7 +472,7 @@
 	header p {
 		color: rgba(255, 255, 255, 0.5);
 		position: relative;
-		margin: 0 0 1.5em 0;
+		margin: 0 0 1em 0;
 	}
 
 	header h2 + p {
@@ -1011,11 +1011,11 @@
 
 	#header h1 {
 		font-size: 3.25em;
-		margin: 0 0 0.55em 0;
+		margin: 0 0 0.4em 0;
 	}
 
 	#header p {
-		font-size: 1.35em;
+		font-size: 1.1em;
 		line-height: 1.65em;
 	}
 
